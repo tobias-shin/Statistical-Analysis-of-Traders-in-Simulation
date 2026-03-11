@@ -1,2 +1,2 @@
 # Statistical-Analysis-of-Traders-in-Simulation
-A statistical analysis of trader behavior in a stock trading simulation 
+Given traders with simulated different trading behaviors, we use statistical analysis to devise an appropriate strategy to maximize expected profit.
